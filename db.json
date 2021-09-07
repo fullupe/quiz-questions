@@ -1,4 +1,5 @@
-QuestionBank = [
+{
+    QuestionBank = [
     {
         question:"what is full meaning william gyekye ?",
         answersList:[
@@ -44,4 +45,5 @@ QuestionBank = [
             {answer: "servant of king",isCorrect: false},
         ]
     },
-];
+]
+}
