@@ -11,7 +11,7 @@
     },
     {
         "question":"what is full meaning of nana kwadjo ?",
-        answersList:[
+        "answersList":[
             {"answer": "ohene","isCorrect": true},
             {"answer": "amankrado","isCorrect": false},
             {"answer": "gogo bitter","isCorrect": false},
