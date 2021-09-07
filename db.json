@@ -1,12 +1,12 @@
 {
-    "QuestionBank" : [
+     [
     {
         "question":"what is full meaning william gyekye ?",
         "answersList":[
             {"answer": "developer","isCorrect": true},
             {"answer": "nurse","isCorrect": false},
             {"answer": "capinter","isCorrect": false},
-            {"answer": "mason","isCorrect": false},
+            {"answer": "mason","isCorrect": false}
         ]
     },
     {
@@ -15,7 +15,7 @@
             {"answer": "ohene","isCorrect": true},
             {"answer": "amankrado","isCorrect": false},
             {"answer": "gogo bitter","isCorrect": false},
-            {"answer": "linquist","isCorrect": false},
+            {"answer": "linquist","isCorrect": false}
         ]
     },
     {
@@ -24,7 +24,7 @@
             {"answer": "ohene weri","isCorrect": true},
             {"answer": "ohene-ba","isCorrect": false},
             {"answer": "enkonya weri","isCorrect": false},
-            {"answer": "servant of king","isCorrect": false},
+            {"answer": "servant of king","isCorrect": false}
         ]
     },
     
