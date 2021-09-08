@@ -26,6 +26,15 @@
             {"answer": "enkonya weri","isCorrect": false},
             {"answer": "servant of king","isCorrect": false}
         ]
+    },
+        {
+        "question":"what is full meaning of nana akoss ?",
+        "answersList":[
+            {"answer": "ohene weri","isCorrect": true},
+            {"answer": "ohene-ba","isCorrect": false},
+            {"answer": "enkonya weri","isCorrect": false},
+            {"answer": "servant of king","isCorrect": false}
+        ]
     }
 ]
 
