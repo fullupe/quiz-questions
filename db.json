@@ -35,6 +35,15 @@
             {"answer": "enkonya weri","isCorrect": false},
             {"answer": "servant of king","isCorrect": false}
         ]
+    },
+          {
+        "question":"what is full meaning of nana faati ?",
+        "answersList":[
+            {"answer": "ohene mum","isCorrect": true},
+            {"answer": "ohene-ba","isCorrect": false},
+            {"answer": "enkonya weri","isCorrect": false},
+            {"answer": "servant of king","isCorrect": false}
+        ]
     }
 ]
 
