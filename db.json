@@ -44,6 +44,15 @@
             {"answer": "enkonya weri","isCorrect": false},
             {"answer": "servant of king","isCorrect": false}
         ]
+    },
+         {
+        "question":"what is full meaning of nana akora ?",
+        "answersList":[
+            {"answer": "ohene dad","isCorrect": true},
+            {"answer": "ohene-ba","isCorrect": false},
+            {"answer": "enkonya weri","isCorrect": false},
+            {"answer": "servant of king","isCorrect": false}
+        ]
     }
 ]
 
