@@ -53,6 +53,28 @@
             {"answer": "enkonya weri","isCorrect": false},
             {"answer": "servant of king","isCorrect": false}
         ]
+    },
+        
+         {
+        "question":" Express 75882 to three significant figures?",
+        "answersList":[
+            {"answer": "759","isCorrect": true},
+            {"answer": "7590","isCorrect": false},
+            {"answer": "75900","isCorrect": false},
+            {"answer": "759(0)","isCorrect": false}
+           
+        ]
+    },
+        {
+        "question":" Multiply 6.4 x 10-2 by 8.5x 104 and leave your answer in standard form",
+        "answersList":[
+            {"answer": "5.44 x 102 ","isCorrect": true},
+            {"answer": "5.44 x 103 ","isCorrect": false},
+            {"answer": "5.44 x 101 ","isCorrect": false},
+            {"answer": "5.44xIO-3 ","isCorrect": false}
+            
+           
+        ]
     }
 ]
 
