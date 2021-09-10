@@ -1,81 +1,215 @@
 
     [
     {
-        "question":"what is full meaning william gyekye ?",
+        "question":"What does DNA stand for?",
         "answersList":[
-            {"answer": "developer","isCorrect": true},
-            {"answer": "nurse","isCorrect": false},
-            {"answer": "capinter","isCorrect": false},
-            {"answer": "mason","isCorrect": false}
+            {"answer": "Deoxy Acid","isCorrect": false},
+            {"answer": "Deoxyribonucleic","isCorrect": false},
+            {"answer": "Deoxyribonucleic acid","isCorrect": true},
+            {"answer": "Deoxy","isCorrect": false}
         ]
     },
     {
-        "question":"what is full meaning of nana kwadjo ?",
+        "question":"How many bones are in the human body?",
         "answersList":[
-            {"answer": "ohene","isCorrect": true},
-            {"answer": "amankrado","isCorrect": false},
-            {"answer": "gogo bitter","isCorrect": false},
-            {"answer": "linquist","isCorrect": false}
+            {"answer": "206","isCorrect": true},
+            {"answer": "520","isCorrect": false},
+            {"answer": "602 bitter","isCorrect": false},
+            {"answer": "620","isCorrect": false}
         ]
     },
     {
-        "question":"what is full meaning of nana akomea ?",
+        "question":"The concept of gravity was discovered by which famous physicist?",
         "answersList":[
-            {"answer": "ohene weri","isCorrect": true},
-            {"answer": "ohene-ba","isCorrect": false},
-            {"answer": "enkonya weri","isCorrect": false},
-            {"answer": "servant of king","isCorrect": false}
+            {"answer": "Sir william's Newton","isCorrect": false},
+            {"answer": "Sir Isaac Newton","isCorrect": true},
+            {"answer": "Sir John Newton","isCorrect": false},
+            {"answer": "Sir John Brown","isCorrect": false}
         ]
     },
         {
-        "question":"what is full meaning of nana akoss ?",
+        "question":"What is the hardest natural substance on Earth?",
         "answersList":[
-            {"answer": "ohene weri","isCorrect": true},
-            {"answer": "ohene-ba","isCorrect": false},
-            {"answer": "enkonya weri","isCorrect": false},
-            {"answer": "servant of king","isCorrect": false}
+            {"answer": "Gold","isCorrect": false},
+            {"answer": "Stones","isCorrect": false},
+            {"answer": "Copper","isCorrect": false},
+            {"answer": "Diamond","isCorrect": true}
         ]
     },
           {
-        "question":"what is full meaning of nana faati ?",
+        "question":"Which is the main gas that makes up the Earth’s atmosphere?",
         "answersList":[
-            {"answer": "ohene mum","isCorrect": true},
-            {"answer": "ohene-ba","isCorrect": false},
-            {"answer": "enkonya weri","isCorrect": false},
-            {"answer": "servant of king","isCorrect": false}
+            {"answer": "oxygen","isCorrect": false},
+            {"answer": "Nitrogen","isCorrect": true},
+            {"answer": "carbon dioxide","isCorrect": false},
+            {"answer": "methane","isCorrect": false}
         ]
     },
          {
-        "question":"what is full meaning of nana akora ?",
+        "question":"Humans and chimpanzees share roughly how much DNA?",
         "answersList":[
-            {"answer": "ohene dad","isCorrect": true},
-            {"answer": "ohene-ba","isCorrect": false},
-            {"answer": "enkonya weri","isCorrect": false},
-            {"answer": "servant of king","isCorrect": false}
+            {"answer": "100","isCorrect": false},
+            {"answer": "98%","isCorrect": true},
+            {"answer": "88%","isCorrect": false},
+            {"answer": "68%","isCorrect": false}
         ]
     },
         
          {
-        "question":" Express 75882 to three significant figures?",
+        "question":"What is the most abundant gas in the Earth’s atmosphere?",
         "answersList":[
-            {"answer": "759","isCorrect": true},
-            {"answer": "7590","isCorrect": false},
-            {"answer": "75900","isCorrect": false},
-            {"answer": "759(0)","isCorrect": false}
+            {"answer": "Nitrogen","isCorrect": true},
+            {"answer": "carbon dioxide","isCorrect": false},
+            {"answer": "oxygen","isCorrect": false},
+            {"answer": "methane","isCorrect": false}
            
         ]
     },
         {
-        "question":" Multiply 6.4 x 10-2 by 8.5x 104 and leave your answer in standard form",
+        "question":"Roughly how long does it take for the sun’s light to reach Earth – 8 minutes, 8 hours or 8 days?",
         "answersList":[
-            {"answer": "5.44 x 102 ","isCorrect": true},
-            {"answer": "5.44 x 103 ","isCorrect": false},
-            {"answer": "5.44 x 101 ","isCorrect": false},
-            {"answer": "5.44xIO-3 ","isCorrect": false}
+            {"answer": "5 minutes","isCorrect": false},
+            {"answer": "9 minutes","isCorrect": false},
+            {"answer": "7 minutes","isCorrect": false},
+            {"answer": "8 minutes ","isCorrect": true}
+            
+           
+        ]
+    },
+        {
+        "question":"Which famous British physicist wrote A Brief History of Time?",
+        "answersList":[
+            {"answer": "Isaac Newtons","isCorrect": false},
+            {"answer": "Stephen Jonse","isCorrect": false},
+            {"answer": "Stephen Hawking","isCorrect": true},
+            {"answer": "william Hawking","isCorrect": false}
+            
+           
+        ]
+    },
+        {
+        "question":"At what temperature are Celsius and Fahrenheit equal?",
+        "answersList":[
+            {"answer": "-04","isCorrect": false},
+            {"answer": "-40","isCorrect": true},
+            {"answer": "04","isCorrect": false},
+            {"answer": "40","isCorrect": false}
+            
+           
+        ]
+    },
+         {
+        "question":"What modern-day country was Marie Curie born in?",
+        "answersList":[
+            {"answer": "England","isCorrect": false},
+            {"answer": "Poland","isCorrect": true},
+            {"answer": "U.S.A","isCorrect": false},
+            {"answer": "Holand","isCorrect": false}
+            
+    
+        ]
+    },
+        {
+        "question":"What modern-day country was Marie Curie born in?",
+        "answersList":[
+            {"answer": "Mars","isCorrect": false},
+            {"answer": "Earth","isCorrect": false},
+            {"answer": "Venus","isCorrect": false},
+            {"answer": "Jupiter","isCorrect": true}
+            
+           
+        ]
+    },
+        {
+        "question":"What name is given for the number of protons found in the nucleus of an atom?",
+        "answersList":[
+            {"answer": "Protons number","isCorrect": false},
+            {"answer": "Atomic number","isCorrect": true},
+            {"answer": "Nucleus nmber","isCorrect": false},
+            {"answer": "None of the Above","isCorrect": false}
+            
+           
+        ]
+    },
+        {
+        "question":"How many vertebrae does the average human possess?",
+        "answersList":[
+            {"answer": "44","isCorrect": false},
+            {"answer": "55","isCorrect": false},
+            {"answer": "22","isCorrect": false},
+            {"answer": "33","isCorrect": true}
+            
+           
+        ]
+    },
+        
+        {
+        "question":"What was the name of the first man-made satellite launched by the Soviet Union in 1957?",
+        "answersList":[
+            {"answer": "Sputnik 2","isCorrect": false},
+            {"answer": "Sputnik 6","isCorrect": false},
+            {"answer": "Sputnik 15","isCorrect": false},
+            {"answer": "Sputnik 1","isCorrect": true}
+            
+           
+        ]
+    },
+        {
+        "question":"Which oath of ethics taken by doctors is named after an Ancient Greek physician?",
+        "answersList":[
+            {"answer": "Hippocratic Oath","isCorrect": true},
+            {"answer": "Sippocratic Oath","isCorrect": false},
+            {"answer": "Syppocratic Oath","isCorrect": false},
+            {"answer": "Hippocratic Oath-2","isCorrect": false}
+            
+           
+        ]
+    },
+         {
+        "question":"What is a material that will not carry an electrical charge called?",
+        "answersList":[
+            {"answer": "Water","isCorrect": false},
+            {"answer": "Conductor","isCorrect": false},
+            {"answer": "Copper","isCorrect": false},
+            {"answer": "Insulator","isCorrect": true}
+            
+           
+        ]
+    },
+         {
+        "question":"Which Apollo moon mission was the first to carry a lunar rover?",
+        "answersList":[
+            {"answer": "Apollo 15","isCorrect": true},
+            {"answer": "Apollo 16","isCorrect": false},
+            {"answer": "Apollo 14","isCorrect": false},
+            {"answer": "Apollo 1","isCorrect": false}
+            
+           
+        ]
+    },
+        {
+        "question":"How many teeth does an adult human have?",
+        "answersList":[
+            {"answer": "32","isCorrect": true},
+            {"answer": "23","isCorrect": false},
+            {"answer": "62","isCorrect": false},
+            {"answer": "26","isCorrect": false}
+            
+           
+        ]
+    },
+        {
+        "question":"What is the study of mushrooms called?",
+        "answersList":[
+            {"answer": "Nicology","isCorrect": false},
+            {"answer": "Nycology","isCorrect": false},
+            {"answer": "Micology","isCorrect": false},
+            {"answer": "Mycology","isCorrect": true}
             
            
         ]
     }
+        
 ]
 
 
