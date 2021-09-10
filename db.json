@@ -14,7 +14,7 @@
         "answersList":[
             {"answer": "206","isCorrect": true},
             {"answer": "520","isCorrect": false},
-            {"answer": "602 bitter","isCorrect": false},
+            {"answer": "602","isCorrect": false},
             {"answer": "620","isCorrect": false}
         ]
     },
@@ -48,7 +48,7 @@
          {
         "question":"Humans and chimpanzees share roughly how much DNA?",
         "answersList":[
-            {"answer": "100","isCorrect": false},
+            {"answer": "100%","isCorrect": false},
             {"answer": "98%","isCorrect": true},
             {"answer": "88%","isCorrect": false},
             {"answer": "68%","isCorrect": false}
