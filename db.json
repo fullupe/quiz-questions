@@ -208,6 +208,116 @@
             
            
         ]
+    },
+        {
+        "question":"Which of the following is a large blood vessel that carries blood away from the heart?",
+        "answersList":[
+            {"answer": "Vein","isCorrect": false},
+            {"answer": "Artery","isCorrect": true},
+            {"answer": "Capillary","isCorrect": false},
+            {"answer": "Nerve","isCorrect": false}
+            
+           
+        ]
+    },
+        {
+        "question":"Which of the following is not a member of the vitamin B complex?",
+        "answersList":[
+            {"answer": "Thiamine","isCorrect": false},
+            {"answer": "Riboflavin","isCorrect": false},
+            {"answer": "Folic acid","isCorrect": false},
+            {"answer": "Ascorbic acid","isCorrect": true}
+            
+           
+        ]
+    },
+        {
+        "question":"Fungi are plants that lack:",
+        "answersList":[
+            {"answer": "Oxygen","isCorrect": false},
+            {"answer": "Carbon dioxide","isCorrect": false},
+            {"answer": "Chlorophyll","isCorrect": true},
+            {"answer": "None of these acid","isCorrect": false}
+            
+           
+        ]
+    },
+        {
+        "question":"What makes a reptile a reptile?",
+        "answersList":[
+            {"answer": "Cold blooded","isCorrect": false},
+            {"answer": "Warm Blooded","isCorrect": false},
+            {"answer": "Non-Hearing","isCorrect": false},
+            {"answer": "Egg-laying","isCorrect": true}
+            
+           
+        ]
+    },
+        {
+        "question":"Which blood vessels have the smallest diameter?",
+        "answersList":[
+            {"answer": "Capillaries","isCorrect": true},
+            {"answer": "Arterioles","isCorrect": false},
+            {"answer": "Venules","isCorrect": false},
+            {"answer": "Lymphatic","isCorrect": false}
+            
+           
+        ]
+    },
+         {
+        "question":"Which of the following is an air-borne disease?",
+        "answersList":[
+            {"answer": "Measles","isCorrect": true},
+            {"answer": "Typhoid","isCorrect": false},
+            {"answer": "Pink eye","isCorrect": false},
+            {"answer": "None of the above","isCorrect": false}
+            
+           
+        ]
+    },
+         {
+        "question":"A yellow dust appears on the fingers, whenever we touch the middle of a flower. These tiny yellow grains are one of the most precious substances in nature because they contain the secret of plant life.  What is this dust called?",
+        "answersList":[
+            {"answer": "Pollen","isCorrect": true},
+            {"answer": "Sperm","isCorrect": false},
+            {"answer": "Spore eye","isCorrect": false},
+            {"answer": "Sporocyst","isCorrect": false}
+            
+           
+        ]
+    },
+         {
+        "question":"Which organ of the body produces the fluid known as bile?",
+        "answersList":[
+            {"answer": "Kidney","isCorrect": false},
+            {"answer": "Pancreas","isCorrect": false},
+            {"answer": "Gall bladder","isCorrect": false},
+            {"answer": "Liver","isCorrect": true}
+            
+           
+        ]
+    },
+        {
+        "question":"Which of the following hormones is a steroid?",
+        "answersList":[
+            {"answer": "Glucagon","isCorrect": false},
+            {"answer": "Estrogen","isCorrect": true},
+            {"answer": "Insulin","isCorrect": false},
+            {"answer": "Oxytocin","isCorrect": false}
+            
+           
+        ]
+    },
+        {
+        "question":" Which one of the following is not a function of the liver?",
+        "answersList":[
+            {"answer": "Regulation of blood sugar","isCorrect": false},
+            {"answer": "Enzyme activation","isCorrect": true},
+            {"answer": "Detoxification","isCorrect": true},
+            {"answer": "Reproduction","isCorrect": false}
+            
+           
+        ]
     }
         
 ]
